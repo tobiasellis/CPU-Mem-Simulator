@@ -1,0 +1,90 @@
+.0
+8   //Load random int
+14  //CopyToX
+1   //Load 2
+2
+16  //CopyToY
+15  //CopyFromX
+13  //SubY (Subtract 2 to AC)
+22  //JNE to address 6
+6
+
+
+15  //CopyFromX
+9   //Print AC (generated number) to screen
+1
+
+1   //Load whitespace char
+32
+9   //Print whitespace to screen
+2
+
+1  //Load "i" 
+105
+9  //print "i"
+2
+1  //Load "s" 
+115
+9  //print "s"
+2
+
+1   //Load whitespace char
+32
+9   //Print whitespace to screen
+2
+
+1  //Load "e" 
+101
+9  //print "e"
+2
+1  //Load "v" 
+118
+9  //print "v"
+2
+1  //Load "e" 
+101
+9  //print "e"
+2
+1  //Load "n" 
+110
+9  //print "n"
+2
+50 //End
+
+.1000
+15  //CopyFromX
+9   //Print AC (generated number) to screen
+1
+
+1   //Load whitespace char
+32
+9   //Print whitespace to screen
+2
+
+1  //Load "i" 
+105
+9  //print "i"
+2
+1  //Load "s" 
+115
+9  //print "s"
+2
+
+1   //Load whitespace char
+32
+9   //Print whitespace to screen
+2
+
+1  //Load "o" 
+111
+9  //print "o"
+2
+1  //Load "d" 
+100
+9  //print "d"
+2
+1  //Load "d" 
+100
+9  //print "d"
+2
+50
